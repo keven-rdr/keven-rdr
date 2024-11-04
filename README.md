@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9052f2c3-c808-46f5-b9e7-09b65c5be0fe)## Olá! Eu sou Keven Lucas 👋
+## Olá! Eu sou Keven Lucas 👋
 
 👋 Eu sou um estudante apaixonado por tecnologia e programação. Estou sempre aprendendo e buscando evoluir a cada dia. Este perfil é um reflexo da minha jornada de aprendizado, onde compartilho projetos, ideias e experiências.
 
