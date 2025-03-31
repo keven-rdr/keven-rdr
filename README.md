@@ -2,7 +2,6 @@
 
 Eu sou um estudante apaixonado por tecnologia e programação. Estou sempre aprendendo e buscando evoluir a cada dia. Este perfil é um reflexo da minha jornada de aprendizado, onde compartilho projetos, ideias e experiências.
 
-🚀 Atualmente, estou focado em Java e Django, e adoro explorar novas áreas do desenvolvimento. Estou aberto a colaborações e sempre em busca de desafios que me ajudem a crescer.
 
 🔗 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
