@@ -3,8 +3,6 @@
 Eu sou um estudante apaixonado por tecnologia e programação. Estou sempre aprendendo e buscando evoluir a cada dia. Este perfil é um reflexo da minha jornada de aprendizado, onde compartilho projetos, ideias e experiências.
 
 
-🔗 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
