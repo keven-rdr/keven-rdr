@@ -1,6 +1,19 @@
-## Olá! Eu sou Keven Lucas 👋
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
+      <h2>👋 Olá! Eu sou Keven Lucas</h2>
+      <p>
+        Eu sou um estudante apaixonado por tecnologia e programação.<br>
+        Estou sempre aprendendo e buscando evoluir a cada dia.<br>
+        Este perfil é um reflexo da minha jornada de aprendizado, onde compartilho projetos, ideias e experiências.
+      </p>
+    </td>
+    <td style="text-align: right; width: 40%;">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG5semtwbWF2ZGkwYWlybDdkc2Y3em85ZDJqaW9jNXFmOGdpend4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKx997XonqmAGU8/giphy.gif" alt="Gif" height="150px" />
+    </td>
+  </tr>
+</table>
 
-Eu sou um estudante apaixonado por tecnologia e programação. Estou sempre aprendendo e buscando evoluir a cada dia. Este perfil é um reflexo da minha jornada de aprendizado, onde compartilho projetos, ideias e experiências.
 
 
 ## 🔥 Skills
@@ -48,6 +61,8 @@ Eu sou um estudante apaixonado por tecnologia e programação. Estou sempre apre
     </td>
   </tr>
 </table>
+
+
 
 
 
