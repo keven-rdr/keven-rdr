@@ -42,10 +42,10 @@ Eu sou um estudante apaixonado por tecnologia e programação. Estou sempre apre
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=keven-rdr&show_icons=true&hide_border=true&bg_color=00000000&theme=default" alt="keven-rdr" />
+      <img src="https://github-readme-stats.vercel.app/api?username=keven-rdr&show_icons=true&theme=default&hide_border=true" alt="keven-rdr" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=keven-rdr&hide_border=true&background=00000000&theme=default" alt="keven-rdr" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=keven-rdr&hide_border=true&theme=default" alt="keven-rdr" />
     </td>
   </tr>
 </table>
