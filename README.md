@@ -56,9 +56,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=keven-rdr&show_icons=true&theme=default&hide_border=true" alt="keven-rdr" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=keven-rdr&hide_border=true&theme=default" alt="keven-rdr" />
-    </td>
+  
   </tr>
 </table>
 
