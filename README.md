@@ -52,12 +52,15 @@
 </div>
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=keven-rdr&show_icons=true&theme=default&hide_border=true" alt="keven-rdr" />
-    </td>
-  
-  </tr>
+ <tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=keven-rdr&show_icons=true&theme=default&hide_border=true" alt="keven-rdr" />
+  </td>
+  <td>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keven-rdr&theme=default" alt="Linguagens mais usadas por keven-rdr" />
+  </td>
+</tr>
+
 </table>
 
 
