@@ -3,8 +3,7 @@
     <td style="vertical-align: top; width: 60%;">
       <h2>👋 Olá! Eu sou Keven Lucas</h2>
       <p>
-        Eu sou um estudante apaixonado por tecnologia e programação.<br>
-        Estou sempre aprendendo e buscando evoluir a cada dia.<br>
+        <h4>Eu sou um estudante de Engenharia de Software, estou sempre aprendendo e buscando evoluir a cada dia.</h4>
         Este perfil é um reflexo da minha jornada de aprendizado, onde compartilho projetos, ideias e experiências.
       </p>
     </td>
