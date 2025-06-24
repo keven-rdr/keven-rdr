@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td style="vertical-align: top; width: 60%;">
-      <h2>👋 Olá! Eu sou Keven Lucas</h2>
+      <h2>👋Hi! I'm Keven Lucas</h2>
       <p>
-        <h4>Eu sou um estudante de Engenharia de Software, estou sempre aprendendo e buscando evoluir a cada dia.</h4>
-        Este perfil é um reflexo da minha jornada de aprendizado, onde compartilho projetos, ideias e experiências.
+        <h4>I am a Software Engineering student, always learning and looking to evolve every day.</h4>
+        This profile is a reflection of my learning journey, where I share projects, ideas, and experiences.
       </p>
     </td>
     <td style="text-align: right; width: 40%;">
