@@ -27,6 +27,8 @@
     <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
     <img alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
     <img alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+<img alt="Auth0" height="30" src="https://cdn.auth0.com/styleguide/components/1.0.8/media/logos/img/badge.png" />
+
   </p>
 </div>
   
